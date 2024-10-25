@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andry\\source\\repos\\ClientWCF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8038663-F690-4251-829C-6C661923D161}|ClientWCF\\ClientWCF.csproj|c:\\users\\andry\\source\\repos\\clientwcf\\clientwcf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8038663-F690-4251-829C-6C661923D161}|ClientWCF\\ClientWCF.csproj|solutionrelative:clientwcf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8038663-F690-4251-829C-6C661923D161}|ClientWCF\\ClientWCF.csproj|C:\\Users\\andry\\source\\repos\\ClientWCF\\clientwcf\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A8038663-F690-4251-829C-6C661923D161}|ClientWCF\\ClientWCF.csproj|solutionrelative:clientwcf\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andry\\source\\repos\\ClientWCF\\ClientWCF\\Program.cs",
+              "RelativeDocumentMoniker": "ClientWCF\\Program.cs",
+              "ToolTip": "C:\\Users\\andry\\source\\repos\\ClientWCF\\ClientWCF\\Program.cs",
+              "RelativeToolTip": "ClientWCF\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T01:03:46.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\andry\\source\\repos\\ClientWCF\\ClientWCF\\App.config",
+              "RelativeDocumentMoniker": "ClientWCF\\App.config",
+              "ToolTip": "C:\\Users\\andry\\source\\repos\\ClientWCF\\ClientWCF\\App.config",
+              "RelativeToolTip": "ClientWCF\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-25T01:37:45.308Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
